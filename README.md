@@ -9,7 +9,7 @@ This project was my first experience working with the backend of web-development
 
 - *Registration:* Add new User to database
 - *Login:* Test username and Password with the Databse and Log In if there is a match
-- *Access to a page only with Login:*
+- *Access to a page only with Login:* Only the user themselve can access their scratch-maps.
 - *Send Email to refresh Password* with TimedJSONWebSignatureSerializer
 - *Create and manage Database:* SQLAlchemy
 
